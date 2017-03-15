@@ -2,7 +2,7 @@
 title: Oliviero Chiodo
 description: Ein Portrait über mich, mit den wichtigsten Informationen über meine Erfahrungen und Fähigkeiten.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "oliviero.chiodo.ch" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Oliviero Chiodo
