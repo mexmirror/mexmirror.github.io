@@ -1,5 +1,5 @@
 # Site settings
-title: Eine Portrait Webseite über mich
+title: Oliviero Chiodo
 description: Ein Portrait über mich, mit den wichtigsten Informationen über meine Erfahrungen und Fähigkeiten.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Ein Portrait über mich, mit den wichtigsten Informationen über me
 # User settings
 username: Oliviero Chiodo
 user_description: Ich bin ein passionierter Software Entwickler. Probleme zu lösen spornt mich an und neue Fähigkeiten zu erwerben macht mir sehr Spass. Ich setzte mich gerne mit neuen Trends ausseinander. Die klassiche Objektorientierung liegt mir sehr und ich fühle mich dabei wohl. Zudem hat die funktionale Programmierung seit kurzem mein Interesse geweckt, weswegen ich mich auch stark für diesen Bereich interessiere.
-email: oliviero@chiodo.ch
+email: "&#111;&#108;&#105;&#118;&#105;&#101;&#114;&#111;&#064;&#099;&#104;&#105;&#111;&#100;&#111;&#046;&#099;&#104;"
 github_username:  mexmirror
 linkedin_username:  oliviero-chiodo-b122a0120
 
