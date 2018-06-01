@@ -13,6 +13,6 @@ linkedin_username:  oliviero-chiodo-b122a0120
 
 # Google-analytics
 google-analytics:
-  id: "UA-93753849-1"
+  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
